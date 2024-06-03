@@ -1,0 +1,7 @@
+//for start UI
+cd client 
+npm install 
+npm run dev
+
+//TO start Server
+npm run start
